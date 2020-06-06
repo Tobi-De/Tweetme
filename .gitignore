@@ -339,3 +339,4 @@ tweetme/media/
 .pytest_cache/
 
 
+*.sqlite3
